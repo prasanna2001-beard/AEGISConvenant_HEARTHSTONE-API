@@ -1,0 +1,1 @@
+# AEGISConvenant_HEARTHSTONE-API
