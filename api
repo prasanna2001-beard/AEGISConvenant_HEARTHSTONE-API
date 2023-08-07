@@ -1,0 +1,12 @@
+import requests
+
+url = "https://omgvamp-hearthstone-v1.p.rapidapi.com/cardbacks"
+
+headers = {
+	"X-RapidAPI-Key": "4509dc5765msh3401cd877def2e1p16f65ejsnf190c7449793",
+	"X-RapidAPI-Host": "omgvamp-hearthstone-v1.p.rapidapi.com"
+}
+
+response = requests.get(url, headers=headers)
+
+print(response.json())
