@@ -1,0 +1,743 @@
+cardBackId,name,description,source,enabled,img,imgAnimated,sortCategory,sortOrder,locale
+0,Classic,The only card back you'll ever need.,0,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/556d677acbb31fececd42912cf003aabeb3bb6efb571bb43de83e6b763763f2c.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/556d677acbb31fececd42912cf003aabeb3bb6efb571bb43de83e6b763763f2c.png,1,1,enUS
+177,Darkmoon Faire,"Come for the questionable carnival games, stay for the deep fried candybars!
+
+Acquired by winning 5 games in ranked mode, October 2019.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8036b9bac29f2ba6d034164147782a2a1c69e3c47f35bc30c7283a7e95c2fdc.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8036b9bac29f2ba6d034164147782a2a1c69e3c47f35bc30c7283a7e95c2fdc.png,5,0,enUS
+21,Nefarian,"You didn't actually believe someone named ""Lord Victor Nefarious"" wasn't up to anything nefarious, did you?
+
+Acquired from completing Blackrock Mountain in Heroic mode.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca7ded9b3af3a3dd61f8946d7f9479ca290578da44949c3c013ff73fa9832c4e.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca7ded9b3af3a3dd61f8946d7f9479ca290578da44949c3c013ff73fa9832c4e.png,3,2,enUS
+44,Overwatch,"The cavalry's here!
+
+Obtained by participating in an Overwatch event or purchasing in the shop.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07858d1eb395c8ee745d07dabab42cfca6bdda6fcd40b08a0f453146d402c111.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07858d1eb395c8ee745d07dabab42cfca6bdda6fcd40b08a0f453146d402c111.png,8,4,enUS
+252,Firelord,"Ragnaros has decided to flex his almighty power by having multiple card backs named after him.
+
+Acquired by purchasing the Fire Festival bundle.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/972183598d070dba90eba0254f2a9a8e28a1619f17fdc2884b30d2ac19911e64.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/972183598d070dba90eba0254f2a9a8e28a1619f17fdc2884b30d2ac19911e64.png,4,6,enUS
+358,Sparkling Sprout,"It might seem all-natural, but it's a plant.
+
+Acquired by winning 5 games in ranked mode, March 2023.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b57e2e9993c5ce1beebd3cd567a706d3ab5c049df11a702a65864713c82e33a.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b57e2e9993c5ce1beebd3cd567a706d3ab5c049df11a702a65864713c82e33a.png,5,0,enUS
+317,Submarine,"It's about time we go and see what waits for us under the sea!
+
+Earnable on the <i>Voyage to the Sunken City</i> Reward Track.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afa09d36a51a5972ba94faca7eb9bd46a4892b877367bfa5eb975f08faded8a3.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afa09d36a51a5972ba94faca7eb9bd46a4892b877367bfa5eb975f08faded8a3.png,3,6,enUS
+1,Pandaria,"Hearthstone is a very popular game in Pandaria.  Official card game of the Shado-Pan!
+
+Acquired from achieving Rank 20 in Ranked Play, April 2014.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94406949e5f4bf5452c8cc34781eba576b54ab497abc3e6a1aed9af913c231aa.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94406949e5f4bf5452c8cc34781eba576b54ab497abc3e6a1aed9af913c231aa.png,5,0,enUS
+45,Eyes of C'Thun,"For an Old God who's stuck in the lightless depths of an ancient temple, C'Thun sure has a lot of eyeballs.
+
+Was acquired from pre-purchase of the Whispers of the Old Gods Card Packs or when available in the shop.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fac9815c46247c713d6dfd44393e5f3093061c7af255ef42507cfe212747ff05.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fac9815c46247c713d6dfd44393e5f3093061c7af255ef42507cfe212747ff05.png,10,3,enUS
+96,Gone Fishin',"Buoy oh buoy! Is it reely time for fishing puns? We think knot.
+
+Acquired from achieving Rank 20 in Ranked Play, November 2017.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89abec01bfda5516121fcf933af99acf79c1e4b20bfcef84229ef0c64fa613e0.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89abec01bfda5516121fcf933af99acf79c1e4b20bfcef84229ef0c64fa613e0.png,5,0,enUS
+10,Hallow's End,"The Hallow's End candy bucket!  Or the Headless Horseman's spare head!  Stick your hand in and find out.
+
+Acquired from achieving Rank 20 in Ranked Play, October 2014 or when available in the shop.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7cb12ecab5fbb6dff5c89b034660500c1c19de9ba728ada1d979a125eb46beb.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7cb12ecab5fbb6dff5c89b034660500c1c19de9ba728ada1d979a125eb46beb.png,5,0,enUS
+318,Driftwood,"Put in the work, and you'll get this drift!
+
+Acquired by winning 5 games in ranked mode, July 2022.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53160ac0ac614fcd0b6654a810b0516d1d5680fcc716ee0ab7319e1abed999bd.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53160ac0ac614fcd0b6654a810b0516d1d5680fcc716ee0ab7319e1abed999bd.png,5,0,enUS
+148,Blizzard Events 2018,"The stars have aligned into a monumental year for Hearthstone!
+
+Acquired by participating in Blizzard events during 2018.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4116a75cb6b444c6c1db745f8559ff7aa230318c040860ec33b65a6efdcf962a.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4116a75cb6b444c6c1db745f8559ff7aa230318c040860ec33b65a6efdcf962a.png,11,4,enUS
+178,Titanic Tasks,"Thanks to the League of Explorers, the titans' creations will go on and on... 
+
+Acquired by successfully completing Tombs of Terror.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/632aeee43d1f28b517e255cd0c90da15dc901b74e14b788d3c592e35fb8fc483.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/632aeee43d1f28b517e255cd0c90da15dc901b74e14b788d3c592e35fb8fc483.png,3,11,enUS
+210,The Breaker,"True story: Jin'rokh rocked this card back while breaking circuits, faces, and the meta.
+
+Acquired by winning 5 games in ranked mode, October 2020.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8dc64837072ab2ae06259346cfab151a3cebacd8c8d2a25b3d994f4bb3afbbe7.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8dc64837072ab2ae06259346cfab151a3cebacd8c8d2a25b3d994f4bb3afbbe7.png,5,0,enUS
+46,Hogger,"The Terror of Elwynn, the King of Gnolls. They say he bathes in the tears of young heroes, hence the wet dog smell.
+
+Acquired from achieving Rank 20 in Ranked Play, March 2016.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0d9b75c311421d4d165b711ac49a9b02bda67bc155aa8b5e61a49be06ac4fd2.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0d9b75c311421d4d165b711ac49a9b02bda67bc155aa8b5e61a49be06ac4fd2.png,5,0,enUS
+97,Call of the Void,"A card back unleashed from the realm of infinite darkness. Looks wicked rad under a blacklight.
+
+Acquired from a special promotion.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/345f9de366405b26bb6f9de2be5128360bb9559d698380b488a49b9db46462f4.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/345f9de366405b26bb6f9de2be5128360bb9559d698380b488a49b9db46462f4.png,7,4,enUS
+101,HearthS'mores,"Gather 'round the fire for a toasty treat! (Card back not actually edible.)
+
+Acquired from achieving Rank 20 in Ranked Play, July 2017.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54f8dfcc014742e95e195c852ca6b319eaf757012225f92c083bfa872f5106cc.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54f8dfcc014742e95e195c852ca6b319eaf757012225f92c083bfa872f5106cc.png,5,0,enUS
+32,Tournament Grounds,"All over The Grand Tournament's grounds, you can find knights at jousting practice. Poor target dummies. So much senseless hay shed on the path to glory...
+
+Acquired from achieving Rank 20 in Ranked Play, August 2015.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d6e4ab01b54636deebf50fff3f13932dcafce127f50c4d3b89fcf3983adf736.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d6e4ab01b54636deebf50fff3f13932dcafce127f50c4d3b89fcf3983adf736.png,5,0,enUS
+179,Tomb Invader,"You came, you saw, you almost went bonkers! 
+
+Acquired from completing Tombs of Terror in Heroic mode.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e15a9f7387760ce05c7946d65694437c4455998477a3e1c06ef8aea7e7c3a096.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e15a9f7387760ce05c7946d65694437c4455998477a3e1c06ef8aea7e7c3a096.png,3,12,enUS
+211,Autumn Leaf,"This card back makes the most satisfying crunching sound if you step on it.
+
+Acquired by winning 5 games in ranked mode, November 2020.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a01162bdb1836f873ef91b0bc5cac3161339a70f938bc62dafc45ddc9ba1938.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a01162bdb1836f873ef91b0bc5cac3161339a70f938bc62dafc45ddc9ba1938.png,5,0,enUS
+149,Frostwolf,"The Frostwolf orc clan trains frost wolves as loyal companions. What a crazy coincidence!
+
+Acquired from winning five games in Ranked Play, December 2018.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0706ee89714c646453c1c42182d847494ada0e978f2a741c199e9c7bb5174cb3.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0706ee89714c646453c1c42182d847494ada0e978f2a741c199e9c7bb5174cb3.png,5,0,enUS
+47,Clutch of Yogg-Saron,"There are several cults trying to summon the Old God Yogg-Saron, and the competition for cultists is causing salaries to skyrocket.
+
+Acquired from achieving Rank 20 in Ranked Play, April 2016 or when available in the shop.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/401320b7be61c04e0f73209bd1b804d3551092cb147dae0c0a343966eac744b1.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/401320b7be61c04e0f73209bd1b804d3551092cb147dae0c0a343966eac744b1.png,5,0,enUS
+98,Call of the Light,"A card back called forth from the realm of undying light. Gives hope to all mankind (except your opponent.)
+
+Acquired from a special promotion.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28ebf557318d3fdd97eaae8a473ecd6e104b4bfb6a21e1813cebdf1d09169d13.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28ebf557318d3fdd97eaae8a473ecd6e104b4bfb6a21e1813cebdf1d09169d13.png,7,5,enUS
+321,Azshara,"Don't let appearances deceive you. She's quite particular about the company she keeps.
+
+Acquired by pre-purchasing Voyage to the Sunken City.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab1afda702b5953322dc8a8352dd5e00bc04164e9510875ae4ac0df5b02e6711.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab1afda702b5953322dc8a8352dd5e00bc04164e9510875ae4ac0df5b02e6711.png,4,6,enUS
+103,Blood Knight,"You provide the sweat and tears, this card back does the rest. 
+
+Acquired from achieving Rank 20 in Ranked Play, August 2017.	",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2523745757954f8e35166c059bc16ee55dd3a416e9b29707fb34387b0d78b7af.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2523745757954f8e35166c059bc16ee55dd3a416e9b29707fb34387b0d78b7af.png,5,0,enUS
+18,Molten Core,"The Molten Core of Azeroth and not a chocolate lava cake, unfortunately.
+
+Was acquired from pre-purchase of Blackrock Mountain.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed2530c30b8fac1165118009693ac7ed089815cd3fc04880cbf37cbaa575fa88.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed2530c30b8fac1165118009693ac7ed089815cd3fc04880cbf37cbaa575fa88.png,10,1,enUS
+212,Valorous Virtue,"Bad behavior will not be tolerated! Unless it's extremely amusing.
+
+Acquired by winning 5 games in ranked mode, December 2020.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b0a81f000fda74db02fa22348a607f34234f28ed1ded84b56434c1b7168a8ff.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b0a81f000fda74db02fa22348a607f34234f28ed1ded84b56434c1b7168a8ff.png,5,0,enUS
+15,Gnomes,"This multifunctional device also works as a gnomish army knife, a shoe horn and a pass to the Deeprun Tram.  Gnomish ingenuity!
+
+Acquired from achieving Rank 20 in Ranked Play, December 2014.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56ad08b1cb511d5fe984100af3b2cdf1637a22b1e85386e19647c8c8959530f8.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56ad08b1cb511d5fe984100af3b2cdf1637a22b1e85386e19647c8c8959530f8.png,5,0,enUS
+48,Shadowmoon Valley,"After Outland became what it is, Shadowmoon Valley has always been full of demonic energy. Gul'dan's favorite spa destination!
+
+Acquired from achieving Rank 20 in Ranked Play, May 2016.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2801266b798863fcb9452ad4dfb9802d9365f0d26927ef7f928bbcd668e3df50.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2801266b798863fcb9452ad4dfb9802d9365f0d26927ef7f928bbcd668e3df50.png,5,0,enUS
+99,Frostmourne,"The undealt shuffle among us, raised from the deck for the cold hand of the Lich King.
+
+Acquired from the Knights of the Frozen Throne pre-purchase bundle.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5bea8ffec601f54805740883355e0ef92fc57e531157c1b478b5dc176c98aa3.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5bea8ffec601f54805740883355e0ef92fc57e531157c1b478b5dc176c98aa3.png,10,6,enUS
+325,Violet Hold,"Crafted to contain even your most nefarious magic-users!
+
+Acquired by winning 5 games in ranked mode, May 2022.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97a3bf8384af0b9dc1980aeda0b7d845e0377f3af0b285207f6341ca9d6ff569.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97a3bf8384af0b9dc1980aeda0b7d845e0377f3af0b285207f6341ca9d6ff569.png,5,0,enUS
+106,Frost Knight,"A card back so powerful it allows you to walk on water! (If frozen.) 
+
+Acquired from achieving Rank 20 in Ranked Play, September 2017.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d499a35aea5ae6cadaf95a1237acfe91783eac75d5097bd80d1956439459c03.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d499a35aea5ae6cadaf95a1237acfe91783eac75d5097bd80d1956439459c03.png,5,0,enUS
+180,Blizzard Events 2019,"Listen to the noise coming from that party! Wait, no… that's a battleground! 
+
+Acquired by participating in Blizzard events during 2019.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/241c5225fe6c51e95201a387eabdb0aa6d930468a3a9e9908283b31a61c3eae8.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/241c5225fe6c51e95201a387eabdb0aa6d930468a3a9e9908283b31a61c3eae8.png,11,5,enUS
+215,N'Zoth,"You're beginning to dream of a glorious destiny! Spoilers: It involves calamari.
+
+Acquired by pre-purchasing Madness at the Darkmoon Faire, or when available in the shop.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe6ed268384fd61548a84d40ade30e737bf90fa0efb14b69980f51669906bc6b.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe6ed268384fd61548a84d40ade30e737bf90fa0efb14b69980f51669906bc6b.png,4,6,enUS
+150,The Third War,"‘Twas the third time Azeroth was engulfed in the chaos of war, and by now they were exceedingly good at it.
+
+Acquired from the Warcraft III: Reforged promotion.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92c7b9a90981dce7e29f67ab96862a24159562139d191d133661ee1dfbe5dd4c.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92c7b9a90981dce7e29f67ab96862a24159562139d191d133661ee1dfbe5dd4c.png,8,6,enUS
+49,Zul'Drak,"Home of the Drakkari ice trolls, Zul'Drak consistently produces the best figure skaters of all the troll tribes.
+
+Acquired from achieving Rank 20 in Ranked Play, June 2016.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e79b53fc5972a551862c3e4b7130c32a10a57ef6dec70b60f786de007111b865.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e79b53fc5972a551862c3e4b7130c32a10a57ef6dec70b60f786de007111b865.png,5,0,enUS
+114,Unholy Knight,"Power corrupts. Absolute power corrupts... AWESOMELY.
+
+Acquired from achieving Rank 20 in Ranked Play, October 2017.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/230ac7f256308de9c84cf2734a6474e0d0ffc8d5b802a67e4aff51f8f2d0a373.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/230ac7f256308de9c84cf2734a6474e0d0ffc8d5b802a67e4aff51f8f2d0a373.png,5,0,enUS
+326,Self-Made,"Use this one, and you'll never be card-bored.
+
+Acquired by winning 5 games in ranked mode, June 2022.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa29022af4edca6f95fd5ed46a823a185f80c61f0d82c5bc4060402eecc94f71.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa29022af4edca6f95fd5ed46a823a185f80c61f0d82c5bc4060402eecc94f71.png,5,0,enUS
+11,Goblins,"4 out of 5 goblins agree: This card back doesn't explode!
+
+Acquired from achieving Rank 20 in Ranked Play, November 2014.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/32505e0487ab5b2f39dcac8fe86d28dae9b9d440a7942cb216e7293f4ffd407c.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/32505e0487ab5b2f39dcac8fe86d28dae9b9d440a7942cb216e7293f4ffd407c.png,5,0,enUS
+181,The Shattering,"This card back accidentally stood in the fire, but it still looks cool! 
+
+Acquired from pre-purchasing the Descent of Dragons bundle.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1717e8978b65ae4d7b89b842b4729c78acf5be3f0610337d40dc3ba3c3313d3.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1717e8978b65ae4d7b89b842b4729c78acf5be3f0610337d40dc3ba3c3313d3.png,10,13,enUS
+5,Legend,"Wow.  Hardcore.
+
+Acquired from achieving Legend Rank in Ranked Play.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed2c6f56f9bc6a1cd59e996efe9892ea4d6f84f05d88ead15daf475992546f6b.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed2c6f56f9bc6a1cd59e996efe9892ea4d6f84f05d88ead15daf475992546f6b.png,6,1,enUS
+216,Sideshow Glow,"Follow the lights to experience the ride of a lifetime!
+
+Earnable on the <i>Madness at the Darkmoon Faire</i> Reward Track.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/501373b6be1946d8bcc0bee8acd5a5e677bd5916872e0349c9d886faac57e56d.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/501373b6be1946d8bcc0bee8acd5a5e677bd5916872e0349c9d886faac57e56d.png,3,6,enUS
+151,Ready to Rumble!,"<i>In Stranglethorn did Rastakhan
+A stately card back, gold, decree:
+Where trolls and sacred loa ran
+In pits so loud and choked with fans
+  who cheered them on with glee.</i>
+
+Originally acquired from the Rastakhan’s Rumble pre-purchase bundle.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8df3d18554519bbfcbc21d9624a86de6a2e7444023e5d515a74eff739f0d381.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8df3d18554519bbfcbc21d9624a86de6a2e7444023e5d515a74eff739f0d381.png,10,10,enUS
+118,For the Hoard!,"<i>In caverns old
+The kobolds hide
+Silver and gold, oh!
+  ** You have died **</i>
+
+Acquired from the Kobolds & Catacombs pre-purchase bundle.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65b6e306015d46ea2c216d563091c973202bc6f4018b754c8c9e409a633ecb8b.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65b6e306015d46ea2c216d563091c973202bc6f4018b754c8c9e409a633ecb8b.png,10,7,enUS
+329,Faelin,"Though his voyage was a pricy one, no sunk cost was too great for him.
+
+Earnable after purchasing the <i>Voyage to the Sunken City</i> Tavern Pass.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c9bb3cc496f73479a2e26905aa93a3f5b7b1405cefbd345085c6115b13fc787.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c9bb3cc496f73479a2e26905aa93a3f5b7b1405cefbd345085c6115b13fc787.png,4,6,enUS
+253,Unseen Gleams,"Get fired up for victory, and you'll always shine bright!
+
+Acquired by logging in on a Huawei device.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca69f99b0f73a28e8ba10db9a83434e2b2d25cb780616702c6de7ffd7a793c1c.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca69f99b0f73a28e8ba10db9a83434e2b2d25cb780616702c6de7ffd7a793c1c.png,9,1,enUS
+185,Cake of the Dead,"A sugary card back to honor the dead. Because they outnumber us.
+
+Acquired by winning 5 games in ranked mode, November 2019.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05cc6ab910bfdb5504dd994785c50ed30c609f3c6523c76162417601dd95809b.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05cc6ab910bfdb5504dd994785c50ed30c609f3c6523c76162417601dd95809b.png,5,0,enUS
+50,Halfhill,"Surrounded by fertile farmland that grows delectable giant produce, Halfhill is the culinary heart of Pandaria. ""Come to Halfhill! Double your weight!""
+
+Acquired from achieving Rank 20 in Ranked Play, November 2016.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef3ab062390da3f9d930d2ab54aaac0cdff0e809a3abfedc730c59695eadae82.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef3ab062390da3f9d930d2ab54aaac0cdff0e809a3abfedc730c59695eadae82.png,5,0,enUS
+152,Good Cheer,"We get by with a little help from our friends. In chat. By posting funny emotes.
+
+Acquired from a special promotion.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6cbb07264a09f7e1e910ba2a30c3ef10031ace60e3445fa4718d1d47d2118323.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6cbb07264a09f7e1e910ba2a30c3ef10031ace60e3445fa4718d1d47d2118323.png,9,2,enUS
+119,Candle King,"It is better to light a candle than curse The Darkness. But you can do both.
+
+Acquired from successfully completing the Kobolds & Catacombs dungeon run with all nine classes.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/701a3bcc289b806c06009bdc5411821b307cc020fff6c449d83f9273b22505a3.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/701a3bcc289b806c06009bdc5411821b307cc020fff6c449d83f9273b22505a3.png,3,5,enUS
+217,Flight of the Val’kyr,"When the cards don’t fall your way, sometimes you have to wing it.
+
+Earnable after purchasing the <i>Madness at the Darkmoon Faire</i> Tavern Pass, or when available in the shop.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9411e273973924856e44f2293b6455bc9cc68e8464ab2561e3ccf144633863eb.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9411e273973924856e44f2293b6455bc9cc68e8464ab2561e3ccf144633863eb.png,3,6,enUS
+33,Power Core,"We can feel the energy in the air. And it's coming from... YOU!
+
+Acquired from attending approved eSports events.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/32d177d5308381fefefa2d3669c9c8f46d9e4f5d78125979a9f2a3491a4c313a.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/32d177d5308381fefefa2d3669c9c8f46d9e4f5d78125979a9f2a3491a4c313a.png,7,2,enUS
+255,Gift of Elune,Solve the mysteries of Stormwind.,2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53b203db66f16cd849b05baee3794a3cc89b45ed2b80d67fb889d1025c30f54a.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53b203db66f16cd849b05baee3794a3cc89b45ed2b80d67fb889d1025c30f54a.png,3,9,enUS
+186,Hellfire Peninsula,"Somewhere through the Dark Portal, demons fly, and the fel power you dream of crackles through the sky!
+
+Acquired by winning 5 games in ranked mode, December 2019.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/495ab51170c364a60de53b6685ed3c0fdc8f9d640e777b02a25b75fceb06f220.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/495ab51170c364a60de53b6685ed3c0fdc8f9d640e777b02a25b75fceb06f220.png,5,0,enUS
+53,The Blue Portal,"Don't tell Netherspite, but mischievous guests have been getting into all manner of shenanigans with his portals!
+
+Acquired from completing One Night in Karazhan in Heroic mode.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22fe824ace161dbcdef16b2d4a0c62d573c68d4db8f2a2d7e9c10b58557e0002.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22fe824ace161dbcdef16b2d4a0c62d573c68d4db8f2a2d7e9c10b58557e0002.png,3,4,enUS
+12,Blizzard 2014,"The year Hearthstone was born.  What a great year!
+
+Acquired by participating in Blizzard events during 2014.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff94371ba0110efec229351527e9f4e76313fab815bf059df485ad6e197bc5bc.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff94371ba0110efec229351527e9f4e76313fab815bf059df485ad6e197bc5bc.png,11,1,enUS
+218,Ironforge,"The Council of Three Hammers always strikes when Ironforge gets hot.
+
+Acquired by winning 5 games in ranked mode, January 2021.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76b7d3eaada4cf11ce66012d243e947d99d39a55469ca4ed53f947c7b03bdb41.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76b7d3eaada4cf11ce66012d243e947d99d39a55469ca4ed53f947c7b03bdb41.png,5,0,enUS
+153,Rumble Runner,"Your ranked opponents will shudder in fear knowing that they face... <i>a champion.</i>
+
+Acquired by successfully completing a Rumble Run.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc15b986628ad1c02f94fc4caed0e235a7f580370d1d2ea8e19613e53a1fd117.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc15b986628ad1c02f94fc4caed0e235a7f580370d1d2ea8e19613e53a1fd117.png,3,8,enUS
+331,Leeroy,"Don't stick to the plan. Stick to this card back.
+
+Acquired by purchasing the Hero Leeroy Jenkins.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ac8aae15e4353680f1cbabdd2b120e5c116c84239ca62c6a2192dfa0d0bd8b1.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ac8aae15e4353680f1cbabdd2b120e5c116c84239ca62c6a2192dfa0d0bd8b1.png,4,6,enUS
+26,Magni,"As the eldest of the three Bronzebeard brothers, Magni always got the coolest toys.  He always shared, though!
+
+Acquired from purchasing the Hero Magni Bronzebeard.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a14818eb8394577369a95de84d8091a66774e9f7fc72f25524bec3ffc2f65522.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a14818eb8394577369a95de84d8091a66774e9f7fc72f25524bec3ffc2f65522.png,4,2,enUS
+188,Dame Hazelbark,"Unlike the Ancient of War, she prefers the quiet of a friendly card game.
+
+Acquired from purchasing the Hero Dame Hazelbark.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30a3fae4c831c30d2eb32ffdc363784ed405157524a3bcc95dfe2351c6118aca.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30a3fae4c831c30d2eb32ffdc363784ed405157524a3bcc95dfe2351c6118aca.png,4,5,enUS
+54,Tinyfin Beach,"Be sure to pack your picnic basket, towel, and Anti-Murloc Spray.
+
+Acquired from achieving Rank 20 in Ranked Play, July 2016.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2dd77e59ebe48b38ae12276c520bf950b134c85ebc59abd378aa55ae877d533.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2dd77e59ebe48b38ae12276c520bf950b134c85ebc59abd378aa55ae877d533.png,5,0,enUS
+219,Year of the Phoenix,"We rose from the ashes of Outland, wised up at the academy, then celebrated with a trip to the faire!
+
+Acquired by winning 5 games in ranked mode, February 2021.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6791f1f5798eb212f9fc494b30375e99a8b9802a309c232dd008ed54f1b003e9.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6791f1f5798eb212f9fc494b30375e99a8b9802a309c232dd008ed54f1b003e9.png,5,0,enUS
+122,Catacomber,"This card back has already been searched for traps.
+
+Acquired from achieving Rank 20 in Ranked Play, December 2017.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8400c0d3cea84bfbc09d104de293c7759750531942818daa0551dbde0412297.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8400c0d3cea84bfbc09d104de293c7759750531942818daa0551dbde0412297.png,5,0,enUS
+27,Medivh,"He certainly has a thing for crows and ravens.
+
+Acquired from purchasing the Hero Medivh.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7f122ff22ba2d09fe163ceade17af4637951f7ae3346aeb1e314e5d12850e30.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7f122ff22ba2d09fe163ceade17af4637951f7ae3346aeb1e314e5d12850e30.png,4,1,enUS
+154,Chillin’,"Impress your friends with Hearthstone’s coolest card back.
+
+Acquired from winning five games in Ranked Play, January 2019.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42b286662f0f6ac6422e464315e3240785219392c13547b97cf50525d65b5793.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42b286662f0f6ac6422e464315e3240785219392c13547b97cf50525d65b5793.png,5,0,enUS
+334,Celestial Starlight,"Fight evil by starlight, and win games with your might!
+
+Acquired by winning 5 games in ranked mode, August 2022.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8010a27fae7f758fe048180bc51b9dfd7f4b03b5dc2c7b946a571b3bcfe54fa.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8010a27fae7f758fe048180bc51b9dfd7f4b03b5dc2c7b946a571b3bcfe54fa.png,5,0,enUS
+189,Book of Explorers,"We all knew that the forces of good would win because they have better hats.
+
+Acquired from completing the explorers' book in Galakrond's Awakening Heroic mode.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/698f67e1b4258ef27cfda1980f0413358e6757dc2241a5df70aaa36514c2edb4.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/698f67e1b4258ef27cfda1980f0413358e6757dc2241a5df70aaa36514c2edb4.png,3,13,enUS
+56,Karazhan Nights,"Watch your step! Dancing Tauren are notorious for accidentally crushing toes.
+
+Acquired by purchasing all wings of One Night in Karazhan within one week of launch.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2ce72dd8549ad97c8c9a6b8b7365abff0532e401fc7228cd71ed94a8be9c879.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2ce72dd8549ad97c8c9a6b8b7365abff0532e401fc7228cd71ed94a8be9c879.png,10,4,enUS
+22,Cupcake,"""Is that a cupcake on a cake?"""" you ask?  Yes.  Yes it is.
+
+Acquired from achieving Rank 20 in Ranked Play, April 2015 or when available in the shop.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5038c62610eb5d49727ec60bb6d7914dc68d576a9644600809b91a83dd3828b2.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5038c62610eb5d49727ec60bb6d7914dc68d576a9644600809b91a83dd3828b2.png,5,0,enUS
+28,Darnassus,"Nestled in the boughs of a giant tree, Darnassus is the capital city of the night elves.  Also home of the world famous Darnassus Kimchi Pie!
+
+Acquired from achieving Rank 20 in Ranked Play, June 2015.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16e1281f0496ae080ab40c91b7b24b84c34d40c6d1cd40f5ac1728f93e8c85fc.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16e1281f0496ae080ab40c91b7b24b84c34d40c6d1cd40f5ac1728f93e8c85fc.png,5,0,enUS
+123,Frostfire,"No matter the chill in the air, the tavern is always warm and welcoming.
+
+Acquired from achieving Rank 20 in Ranked Play, January 2018.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0993d01d3281c70ac2671fc0bfc6061a75ff28b8ff1eaebd4b73582885f1e70.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0993d01d3281c70ac2671fc0bfc6061a75ff28b8ff1eaebd4b73582885f1e70.png,5,0,enUS
+155,Pizza Stone,"For when you want to build a deck with extra cheese.
+
+Acquired from winning five games in Ranked Play, February 2019.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/303f85ddbd73f043fb6c38a3ddded77dbd65327d9d3e71d67f4be133cc2ec23f.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/303f85ddbd73f043fb6c38a3ddded77dbd65327d9d3e71d67f4be133cc2ec23f.png,5,0,enUS
+337,Garona,"The opponent will never see your next play coming with this card back.
+
+Obtained by purchasing from the shop.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dec2dcdb8606ca1183599725e5a327edfaade1b0a0b01677a4c5a39dc1bf799.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dec2dcdb8606ca1183599725e5a327edfaade1b0a0b01677a4c5a39dc1bf799.png,4,0,enUS
+58,Medivh's Invitation,"You're Invited! Please leave your giant bear with the valet.
+
+Acquired from achieving Rank 20 in Ranked Play, August, 2016.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5a02af7698acf363459699d32b5f12e1bc79091958c210783817058cca89868.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5a02af7698acf363459699d32b5f12e1bc79091958c210783817058cca89868.png,5,0,enUS
+19,Ragnaros,"The Firelord is most often seen relaxing in his hot tub, even when he's trying to burn down the world.
+
+Acquired from achieving Rank 20 in Ranked Play, March 2015 or participating in Fire Festival 2019.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/873346912c19653aa4527f1a67e09c5f00648e7a01680aeb855bb41856c57a98.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/873346912c19653aa4527f1a67e09c5f00648e7a01680aeb855bb41856c57a98.png,5,0,enUS
+220,Cobalt Vault,"Forged to contain the riches of Azeroth… or your Angry Chickens.
+
+Acquired by winning 5 games in ranked mode, April 2021.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0cfbdc1d035e68995f32229f50b82ba06fec4d521d81772aa8c5158c15a92c05.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0cfbdc1d035e68995f32229f50b82ba06fec4d521d81772aa8c5158c15a92c05.png,5,0,enUS
+282,Scarf of the Hearth,"It brings a cozy feeling that you know all too well.
+
+Acquired by winning 5 games in ranked mode, December 2021.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6809c60923e0f2605101b7b3c4dbbe5316f0a348249026aae0579fb663aa5a3a.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6809c60923e0f2605101b7b3c4dbbe5316f0a348249026aae0579fb663aa5a3a.png,5,0,enUS
+125,Azeroth is Burning,"War is a terrible thing. Although highly profitable for both red and blue flagmakers.
+
+Acquired from the Battle for Azeroth Collector's Edition.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5fa607ab25a853cd38a62d0146f6f79d11eff830e1f74fbc85b6bceb276ce3a.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5fa607ab25a853cd38a62d0146f6f79d11eff830e1f74fbc85b6bceb276ce3a.png,8,5,enUS
+338,Ghost Ship,"Careful, this one only does one way trips!
+
+Complete Faelin's Book of Heroes.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c86d73606e5f9ab6ff4a78a1c0c4086a47c7242b0a7e0f4dcd6de7f0c5a9084.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c86d73606e5f9ab6ff4a78a1c0c4086a47c7242b0a7e0f4dcd6de7f0c5a9084.png,3,16,enUS
+156,Winter Veil Treat,"Every deck should have 30 cards *crunch crunch crunch* but 29 is fine.
+
+Acquired from Winter Veil 2018",5,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f57722a820ed3d41f046fe8131cfe51e980673d48041dbe6c1892a41a7d5ec68.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f57722a820ed3d41f046fe8131cfe51e980673d48041dbe6c1892a41a7d5ec68.png,13,0,enUS
+6,Naxxramas,"The gooey center is Ooze slime.  Don't lick it.
+
+Acquired from achieving Rank 20 in Ranked Play, July 2014, or when available in the shop.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a605d04eae7956a459750b1bd42fa724edc9fee789e521caf8925b4073c4f30b.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a605d04eae7956a459750b1bd42fa724edc9fee789e521caf8925b4073c4f30b.png,5,0,enUS
+190,Book of E.V.I.L.,"It's dangerous and immoral, but an incredibly engrossing read!
+
+Acquired from completing the E.V.I.L. book in Galakrond's Awakening Heroic mode.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2eea5704074094dc407b3040683ef590aa0f4ea2f2a76e977f8a8a0abd36e910.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2eea5704074094dc407b3040683ef590aa0f4ea2f2a76e977f8a8a0abd36e910.png,3,14,enUS
+221,Vale of Eternal Blossoms," It's much more cheerful than the Ephemeral Blossom. That one's kind of a downer.
+
+Acquired by winning 5 games in ranked mode, March 2021.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2de62a8a445f01a992f3694958fc68e193037c011271d7a5063bab8728ecd6d.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2de62a8a445f01a992f3694958fc68e193037c011271d7a5063bab8728ecd6d.png,5,0,enUS
+283,Moonlight Might,"The night elves were early proponents of wellness.
+
+Acquired from OneStore pre-registration.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/acd29c8c63112f747011ad7788469bf7426a6a1bea84ec1219859137f7b54418.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/acd29c8c63112f747011ad7788469bf7426a6a1bea84ec1219859137f7b54418.png,9,1,enUS
+128,Sparkles,"If you can't beat 'em with strategy, dazzle 'em with magic and glitter!
+
+Acquired from achieving Rank 20 in Ranked Play, February 2018.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9fb6305f84d89a4191c8d4e35069be289fc2a36dfb5b730eecc03cba1ee1657.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9fb6305f84d89a4191c8d4e35069be289fc2a36dfb5b730eecc03cba1ee1657.png,5,0,enUS
+34,Exodar,"The capital city of the draenei is actually a crash-landed dimensional ship.  Despite its wonders and Velen's best efforts, its tourism industry is sluggish due to its remote location (and the man-eating mutant plants).
+
+Acquired from achieving Rank ",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1849208b8d9fd5f7fa6a426230cba7edb92fb716313c64c53c6d61aed8ef885d.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1849208b8d9fd5f7fa6a426230cba7edb92fb716313c64c53c6d61aed8ef885d.png,5,0,enUS
+359,Tranquility,"Reflect upon this pool, and your victories may also blossom.
+
+Acquired by winning 5 games in ranked mode, April 2023.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40cea144149f406bc8b4745d2d8dfa8147adb9581a9d3dd1337982cb1f23c0fb.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40cea144149f406bc8b4745d2d8dfa8147adb9581a9d3dd1337982cb1f23c0fb.png,5,0,enUS
+157,Mark of Hakkar,"Look out! This card back's gone viral!
+
+Acquired by encountering another player with the Mark of Hakkar card back in any play mode.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/240a1a7d7d63b14332592590f02f83ca54e98f1c15f83ffa5c6ab191546076c8.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/240a1a7d7d63b14332592590f02f83ca54e98f1c15f83ffa5c6ab191546076c8.png,13,0,enUS
+191,Banshee Queen,"The melody of a high elf lamentation plays, as though invoking a distant memory.
+
+Acquired by purchasing the Hero Sylvanas Windrunner.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b9424381cb4c99bec54abc753c46fa3a3e1792f5d13983df979c50f8f597322d.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b9424381cb4c99bec54abc753c46fa3a3e1792f5d13983df979c50f8f597322d.png,4,6,enUS
+222,30 Years of Blizzard,"Turns out things can stay frosty for a seriously long time.
+
+Acquired from the shop during the anniversary event.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea7c5c7dc1f27aa99513ad468201bf4f9bc21bc1ce205d742753526ac699ece7.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea7c5c7dc1f27aa99513ad468201bf4f9bc21bc1ce205d742753526ac699ece7.png,11,5,enUS
+285,Carved Autumn,"Hewn from a single slab of imported Westfall Oak, this decorative piece is a masterclass in dwarven woodcarving.
+
+Acquired by winning 5 games in ranked mode, November 2021.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/471c0f5ef1b0b6c32eb0ff5f3c34e3c86fff168231fac08e467b52d774a69ffa.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/471c0f5ef1b0b6c32eb0ff5f3c34e3c86fff168231fac08e467b52d774a69ffa.png,5,0,enUS
+139,Lemonade,"When life gives you lemons,
+make delicious card backs!
+
+Acquired from winning five games in Ranked Play, August 2018.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c6f6e9baadc05af3a6f84d27096b67b216647cc3bb04f8dfa60e3a59a996b668.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c6f6e9baadc05af3a6f84d27096b67b216647cc3bb04f8dfa60e3a59a996b668.png,5,0,enUS
+341,Prince Renathal,"On the hunt and thirsty for clues!
+
+Earnable after purchasing the <i>Murder at Castle Nathria</i> Tavern Pass.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7744ca15c9c1dc78c355ae02a738777a2fe6afe7a9f9ec7057da515658d59d3.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7744ca15c9c1dc78c355ae02a738777a2fe6afe7a9f9ec7057da515658d59d3.png,0,0,enUS
+36,Explorer's Map,"A League of Explorers treasure map!  Or the Cartographer's grocery list?  Let's find out!
+
+Acquired from achieving Rank 20 in Ranked Play, November 2015.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1e6f5e09c7ed9a5846cc58d7312ce2b2fda94154e153a98f927f46597c61ee3.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1e6f5e09c7ed9a5846cc58d7312ce2b2fda94154e153a98f927f46597c61ee3.png,5,0,enUS
+158,Random,"The Innkeeper offers to shuffle your cardbacks randomly for you.
+
+Use this cardback if you would like to have a random cardback you own assigned whenever you play!",0,True,,,1,2,enUS
+223,Hamuul,"Don't call him ""Ham"" unless you want him to have a beef with you.
+
+Acquired by pre-purchasing Forged in the Barrens.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50daf9f5185b506df70b0a7fb1c94219ef10f64a0d5cb2468655bd4f5ef1f06d.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50daf9f5185b506df70b0a7fb1c94219ef10f64a0d5cb2468655bd4f5ef1f06d.png,4,6,enUS
+193,Shoring Up,"If you lift this shell to your ear, you'll hear the sounds of your games from this month… Don't hold it too close.
+
+Acquired by winning 5 games in ranked mode, January 2020.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39f1f87197727fea803750df44aa339c823189613b69855035bda8c223496acf.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39f1f87197727fea803750df44aa339c823189613b69855035bda8c223496acf.png,5,0,enUS
+14,Warlords,"When they aren't plotting to kill everyone and take over the world, even the Iron Horde enjoy a game of Hearthstone.
+
+Acquired from Warlords of Draenor Digital Deluxe Edition.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f3b96c3520391dcbbc2861dcc9edc3a00037d55645108903c22988a998aebe9.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f3b96c3520391dcbbc2861dcc9edc3a00037d55645108903c22988a998aebe9.png,8,2,enUS
+286,Vanndar,"The battle for Alterac could just be an excuse for the Horde and Alliance to play in the snow together.
+
+Acquired by pre-purchasing Fractured in Alterac.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/714a66665ff62e18e6c1d09125e71c7fe6fa22c00b8d99bb0d617670d7bd74d9.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/714a66665ff62e18e6c1d09125e71c7fe6fa22c00b8d99bb0d617670d7bd74d9.png,4,6,enUS
+342,Denathrius,"This card back is best stored in a cool, dark place.
+
+Obtained by purchasing in the shop.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/67440081f9919cf9f761399d3e6ac9c98497231665a5c793407133549fe85b22.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/67440081f9919cf9f761399d3e6ac9c98497231665a5c793407133549fe85b22.png,4,6,enUS
+360,Darion Mograine,"Only the most virtuous Knight of the Ebon Blade is worthy of wielding this card back in battle.
+
+Earnable after purchasing the <i>March of the Lich King</i> Tavern Pass.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d24c831122fef2ef5d44505d76b572a29a5d8fc20aeaa9fdb1588fe4053355c5.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d24c831122fef2ef5d44505d76b572a29a5d8fc20aeaa9fdb1588fe4053355c5.png,3,6,enUS
+159,Pristine Scenes,"It's even brighter than Malto's glorious beard. 
+
+Acquired by logging in on an iOS device.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2b8488252c647e07a639cdcab7da606e8524e37e097ee9f65ac5b7001ae9f80.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2b8488252c647e07a639cdcab7da606e8524e37e097ee9f65ac5b7001ae9f80.png,9,0,enUS
+224,Wailing Caverns,"It's gonna take a whole lot of work to get them to pipe down.
+
+Acquired by winning 5 games in ranked mode, May 2021.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdfe2ba65e901c14189e476170fe81a6fbde981a77f151dadb3459bad7ab50db.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdfe2ba65e901c14189e476170fe81a6fbde981a77f151dadb3459bad7ab50db.png,5,0,enUS
+194,Desert Bloom,"Don't worry! This card back will remain lush and lovely even if you forget to water it.
+
+Acquired by winning 5 games in ranked mode, February 2020.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f48158a2d0e81441bddee146e04801bf2d3af2161e59054f4b9cf746d8630817.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f48158a2d0e81441bddee146e04801bf2d3af2161e59054f4b9cf746d8630817.png,5,0,enUS
+142,Mecha-Jaraxxus,"THANK YOU FOR MAKING MY CARD BACK, TRIFLING HUMANS!
+
+Obtainable by purchasing in the shop.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b193c4639f865a50514c3df744a4a8f760ebba27e7adbdd6845423fd835f050.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b193c4639f865a50514c3df744a4a8f760ebba27e7adbdd6845423fd835f050.png,10,9,enUS
+29,Samsung Galaxy,"Gifts from the Galaxy!  This card back is truly out of this world.
+
+Awarded through the Samsung Galaxy promotion!",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f99595a94eab8dca694b2a97dd2fc5cc9845209a99577305b02b7b02e14690e7.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f99595a94eab8dca694b2a97dd2fc5cc9845209a99577305b02b7b02e14690e7.png,9,1,enUS
+343,Revendreth,"The scene is about to get <i>anima</i>-ted!
+
+Earnable on the <i>Murder at Castle Nathria</i> Reward Track.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d2f0f6c30b0af7cf1996c5207e6861737ebcf18a6f196e515eba725a23ef00a.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d2f0f6c30b0af7cf1996c5207e6861737ebcf18a6f196e515eba725a23ef00a.png,3,6,enUS
+361,Festival,"This card back speaks volumes!
+
+Earnable on the <i>Festival of Legends</i> reward track.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c86d7c01d6d7fc05f8f1ee022696459abe6b2f178b526a7d3f16de5af86ed4e3.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c86d7c01d6d7fc05f8f1ee022696459abe6b2f178b526a7d3f16de5af86ed4e3.png,3,6,enUS
+16,Maraad,"Vindicator Maraad was a paladin of great courage and strength.  Don't let the pretty pastel tones fool you.
+
+Acquired from achieving Rank 20 in Ranked Play, January 2015.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98d3e6b877f6f9dbca628bc0488d496029728c507979a017213393e8228b2abc.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98d3e6b877f6f9dbca628bc0488d496029728c507979a017213393e8228b2abc.png,5,0,enUS
+226,The Barrens,"The only possible destination for those who dream of adventure, questing, and a massive zhevra hoof collection.
+
+Earnable after purchasing the <i>Forged in the Barrens</i> Tavern Pass.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/32a9f649b4d3923ce2a70b5fca2308ca3862ff326a2e36ac26c97128a0c9553a.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/32a9f649b4d3923ce2a70b5fca2308ca3862ff326a2e36ac26c97128a0c9553a.png,3,6,enUS
+195,Year of the Dragon,"The good were never better, the bad were never worse, the dragon was awoken, and then that was reversed! 
+
+Acquired from participating in a special promotion. 
+
+",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bb5cff0b863d033c5513d0554f19c00374d0e8f0889363a82c9637ab8558a87.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bb5cff0b863d033c5513d0554f19c00374d0e8f0889363a82c9637ab8558a87.png,9,0,enUS
+143,Boomsday!,"Show your opponent that you’re a mad genius! Or maybe a happy one, depending on the mulligan.
+
+Acquired from completing all of Dr. Boom’s puzzles.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fe41217b64e1198a0b2fcfe8c461f35752ea54da452ca14fee83709c9493b0d.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fe41217b64e1198a0b2fcfe8c461f35752ea54da452ca14fee83709c9493b0d.png,3,7,enUS
+344,Fire Plume,"Locals call it the biggest hot spot in Un'Goro!
+
+Acquired by winning 5 games in ranked mode, September 2022.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1aa73a4442e62e999b2f915385af2aec3ffac2aa831f98c596c6c01cc95cda76.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1aa73a4442e62e999b2f915385af2aec3ffac2aa831f98c596c6c01cc95cda76.png,5,0,enUS
+291,Edwin,"Why stop at one VanCardBack?
+
+Acquired by purchasing the Hero Edwin VanCleef.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51e144794ffa629b5d277aa2b3668cec00405f8c7853d54e28ded826251dea0e.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51e144794ffa629b5d277aa2b3668cec00405f8c7853d54e28ded826251dea0e.png,4,6,enUS
+160,Legion Schemes,"It isn't always easy being green, but it's definitely awesome! 
+
+Acquired by logging in on an Android device.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4c6e0a5aa8f958d3f420a8767f297fb4ae2b36bc406afc2e83e1859cf36f4c4.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4c6e0a5aa8f958d3f420a8767f297fb4ae2b36bc406afc2e83e1859cf36f4c4.png,9,0,enUS
+227,Zuldazar,"Historically, this city was only for trolls, ensuring that the pranks were legendary.
+
+Earnable on the <i>Forged in the Barrens</i> Reward Track.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9749deea8c2c77cbb1c67fd7825768dbffddc3e2a56ccf9085b836152f0dc9fe.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9749deea8c2c77cbb1c67fd7825768dbffddc3e2a56ccf9085b836152f0dc9fe.png,3,6,enUS
+362,Omen,"Will this Wild God's card back bring a good Omen, or a bad one? You'll have to draw to find out...
+
+Obtainable by purchasing in the shop.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/254f5ea26069a2248d317551d309e885782cd732ccc38d37d4c4e1dec97211d0.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/254f5ea26069a2248d317551d309e885782cd732ccc38d37d4c4e1dec97211d0.png,4,6,enUS
+196,Wondrous Wisdomcard,"You're expecting a bad joke here, but it's not in the cards!
+
+Acquired by purchasing the Hero Khadgar.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35b30fb1ee64cd6b0ce4050227557dba553d4d3329930b05bb5766ebbae8680d.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35b30fb1ee64cd6b0ce4050227557dba553d4d3329930b05bb5766ebbae8680d.png,4,6,enUS
+292,Celeste,"She is living proof that the stars are smiling down on you.
+
+Earnable after purchasing the <i>Fractured in Alterac</i> Tavern Pass.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0e8ec8cd2d4773d1b8bd79a214b8477ec2c503dfb5f7c16ae181e90919c1c31.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0e8ec8cd2d4773d1b8bd79a214b8477ec2c503dfb5f7c16ae181e90919c1c31.png,4,6,enUS
+345,Pumpkin,"Isn't the flavor of fall the best of all?
+
+Acquired by winning 5 games in ranked mode, October 2022.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d86893afa124d46f76448ca24f701b4fb0ba3334ca50b1f177074d3cd0ee108e.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d86893afa124d46f76448ca24f701b4fb0ba3334ca50b1f177074d3cd0ee108e.png,5,0,enUS
+144,VanCardback,"Is this a tribute to the notorious rogue Edwin VanCleef? Nobody knows. Because it wears a mask.
+
+Acquired from winning five games in Ranked Play, October 2018.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f00283ec53ebd853e30754d272cd9b09def9a3893ed00d0a2a8e85c9130ec841.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f00283ec53ebd853e30754d272cd9b09def9a3893ed00d0a2a8e85c9130ec841.png,5,0,enUS
+23,Ninjas!,"Stealth.  Style.  Shurikens.  Way better than Pirates!
+
+Acquired from achieving Rank 20 in Ranked Play, May 2015.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c875e03798537e7dd1127c2e4c1e3d74afa464220a5bbc21ef552d122c93754.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c875e03798537e7dd1127c2e4c1e3d74afa464220a5bbc21ef552d122c93754.png,5,0,enUS
+161,Machine Dreams,"Some machines are reportedly capable of transporting heroes into Harth's tavern, but it’s just a rumor. 
+
+Acquired by logging in on a PC.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/744a79512f70c79fb825425d3227bcd301257cdc6fd4cfd4fb43936cc97c6ffd.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/744a79512f70c79fb825425d3227bcd301257cdc6fd4cfd4fb43936cc97c6ffd.png,9,0,enUS
+364,Saraad,"The champion of the Nexus had a shrewd sense for exploiting both the weaknesses of his competition and business contracts.
+
+Obtainable by purchasing in the shop.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51f7fb612fdab24fd1c305c0039872ceeaedee0a5daea64d6e2147785b611b4e.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51f7fb612fdab24fd1c305c0039872ceeaedee0a5daea64d6e2147785b611b4e.png,4,6,enUS
+197,Playing Koi,"Fish out of water can be awkward… or decorative!
+
+Acquired by winning 5 games in ranked mode, March 2020.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e50e3037a15a55c76dcd730e588da8c560d6c140baddd9f29f3469e96060994.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e50e3037a15a55c76dcd730e588da8c560d6c140baddd9f29f3469e96060994.png,5,0,enUS
+346,Death Knight,"It was truly a grave day when they marched upon Silvermoon.
+
+Earnable on the <i>March of the Lich King</i> reward track.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c9b77d6f94f26530a935310ff45342147315a97e41fb91c2c7c1b5b61e14ebb.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c9b77d6f94f26530a935310ff45342147315a97e41fb91c2c7c1b5b61e14ebb.png,0,0,enUS
+145,Dr. Boom's Lab,"Time to experiment!
+Will you make bombs?
+Or will you make... MORE bombs?
+
+Acquired from winning five games in Ranked Play, September 2018.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c056da0d3c562f98eccc61b22ee97d601f920eb02c43098fde27636d9ce608bb.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c056da0d3c562f98eccc61b22ee97d601f920eb02c43098fde27636d9ce608bb.png,5,0,enUS
+129,In a Dark Wood,"The forest was eerily quiet. Aside from the howls. And the screaming.
+
+Acquired from the Witchwood pre-purchase bundle.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39642609e8851fe1e87025eabbdfd690a712bab6bdcf24d95ae483c7e098dc60.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39642609e8851fe1e87025eabbdfd690a712bab6bdcf24d95ae483c7e098dc60.png,10,8,enUS
+295,Infernal Armor,"** INSERT IDENTIFICATION CARD **
+This card back was forged in the Outland from the most durable fel iron ore. 
+** ACCESS GRANTED **
+
+Obtained by purchasing the Infernal Armor Illidan Hero Set.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/befdca61e753056e050c877a025c110e19a805fd3c45de83f63b39521ee98edb.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/befdca61e753056e050c877a025c110e19a805fd3c45de83f63b39521ee98edb.png,4,6,enUS
+365,Hedanis,"His band's logo is also available as a plushie, pillow, light stick, and exclusive photo card!
+
+Acquired by pre-purchasing the Festival of Legends.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bad4ec0fdf45c2658f7ee8fdfc5d37ad6dd29340436c0bc1e5a458ce061e386.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bad4ec0fdf45c2658f7ee8fdfc5d37ad6dd29340436c0bc1e5a458ce061e386.png,4,6,enUS
+162,Kul Tiras,"A seaworthy card back that can anchor even the naughtiest of nautical decks.
+
+Acquired from winning five games in Ranked Play, March 2019.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b08b6061da8f7a4b26dde4917375a849c4e48c88b197c454b1626c74fe3b6112.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b08b6061da8f7a4b26dde4917375a849c4e48c88b197c454b1626c74fe3b6112.png,5,0,enUS
+198,Blushroom,"It’s a shy guy but a fungi.
+
+Acquired by winning 5 games in ranked mode, April 2020.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f342ebbac615dee5c51466a82bee8f69f673c68640fc430f817dd4083893e774.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f342ebbac615dee5c51466a82bee8f69f673c68640fc430f817dd4083893e774.png,5,0,enUS
+347,Lunchbox,"Warning: This card back may induce hunger, envy, and insatiable cravings for adorable food.
+
+Acquired by winning 5 games in ranked mode, February 2023.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb94e1daea77bb92d2cc9992d59e69014aeae78eafbd0f02f4f339aba51905df.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb94e1daea77bb92d2cc9992d59e69014aeae78eafbd0f02f4f339aba51905df.png,5,0,enUS
+13,Dalaran Flame,"Mascot of Dalaran University.  Rarely seen, because no one ever shows up to football games there.
+
+Acquired by participating in TeSPA or other college affiliate program.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a24b3036e3c5a0e1a86228bfeb0810e6d84cc3f4ee4ec5f40eff202fba1334f.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a24b3036e3c5a0e1a86228bfeb0810e6d84cc3f4ee4ec5f40eff202fba1334f.png,7,1,enUS
+147,Moonwell,"Night elves use Moonwells to replenish their magical energies. They’re also used in a popular orc prank involving dish soap.
+
+Acquired from winning five games in Ranked Play, November 2018.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fc51de60a565327c2e3b9ad3a672e02357674638ffc8fde21cc35e554433a17.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fc51de60a565327c2e3b9ad3a672e02357674638ffc8fde21cc35e554433a17.png,5,0,enUS
+366,Inzah,"He’s sure to jazz up your deck!
+
+Obtainable by purchasing in the shop.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05b820c6203dd55fe5c9724b696aa97b963d810a846eaf8707ba82bd3a680991.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05b820c6203dd55fe5c9724b696aa97b963d810a846eaf8707ba82bd3a680991.png,4,6,enUS
+163,Card of Shadows,"This card back will wilt your enemy's crops, ruin their skin, and eat the last piece of their favorite candy. It's just that evil.
+
+Acquired from winning five games in Ranked Play, April 2019.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8005047c45080a1ff5aa4b3930a1a633c0f8d1a1ef5f4bb136f3cf31bf8400b5.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8005047c45080a1ff5aa4b3930a1a633c0f8d1a1ef5f4bb136f3cf31bf8400b5.png,5,0,enUS
+2,Black Temple,"""Fel Flame Green"" is always in fashion at the Black Temple.
+
+Acquired from achieving Rank 20 in Ranked Play, May 2014.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcc85ddfec40f4166984f9e7aa33e465e9a2bf11ce9c95f907a6b4b73f15e340.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcc85ddfec40f4166984f9e7aa33e465e9a2bf11ce9c95f907a6b4b73f15e340.png,5,0,enUS
+296,Steel Guardian,"** INSERT IDENTIFICATION CARD **
+Like a good deck, an alloyed armor is only as strong as the sum of its parts.
+** ACCESS GRANTED **
+
+Obtained by purchasing the Steel Guardian Malfurion Hero Set.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17b124888b37384829ac32753c8c65af9dbaa92606fce440d6eb5ff1a9d19c9d.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17b124888b37384829ac32753c8c65af9dbaa92606fce440d6eb5ff1a9d19c9d.png,4,6,enUS
+348,Magical Guardian Elise,"The Magic of Azeroth is out there! Maybe even on the other side of this card back...
+
+Obtained by purchasing in the shop.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3dd9f749474075d5c4809f4c9ba833214125e8080696fc67e619d0b65b2a693.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3dd9f749474075d5c4809f4c9ba833214125e8080696fc67e619d0b65b2a693.png,4,6,enUS
+130,Year of the Mammoth,"It was a big year. Massive. Sure, things got a little wooly, but that’s irrelephant.
+
+Acquired from winning five games in Ranked Play, March 2018.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38631f572c6132ed6fb7f9b3da9726b0d539f2d50872302b18b22872301657ef.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38631f572c6132ed6fb7f9b3da9726b0d539f2d50872302b18b22872301657ef.png,5,0,enUS
+299,Stormpike Spirit,"No matter how many times the Horde drives you back, you won't let them triumph in Alterac!
+
+Earnable on the <i>Fractured in Alterac</i> reward track.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/398e1924afd95c66dad0655bf685bd234f2bd19042ae8ef08abf2269bb2a5fa4.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/398e1924afd95c66dad0655bf685bd234f2bd19042ae8ef08abf2269bb2a5fa4.png,3,6,enUS
+367,Halveria,"Her guitar is called Sorrowchord, and it gently weeps on itself.
+
+Earnable on the <i>Festival of Legends</i> reward track.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb26d2f53667795ccefca1743cff89892c46ee1c8d44761db26e21766253c171.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb26d2f53667795ccefca1743cff89892c46ee1c8d44761db26e21766253c171.png,3,6,enUS
+20,Golden Celebration,"Solid gold, baby.
+
+Acquired with a high level finish in approved esports events.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e56bd76493b3f0b5c1cbebf3d652e903c5f1f6f061c0e8fb98c18108c4ce57fe.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e56bd76493b3f0b5c1cbebf3d652e903c5f1f6f061c0e8fb98c18108c4ce57fe.png,12,1,enUS
+164,Jewel of Lazul,"It has an important message, but it's a riddle shrouded in a song.
+
+Acquired from pre-ordering the Rise of Shadows bundle.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43ae34d0ad8827870ab48821c5c46896a658330b115fd9bc85e1ab14b28b4591.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43ae34d0ad8827870ab48821c5c46896a658330b115fd9bc85e1ab14b28b4591.png,10,11,enUS
+373,Emerald Dream,"You don't have to be a druid to wonder what's on the other side of that portal.
+
+Acquired by winning 5 games in ranked mode, August 2023.",1,True,,,5,0,enUS
+349,Deviate Delight,It's amazing what you can fish up!,2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/648e731cecf339cddb8bb91413a7a98bec2c024bc3c7ccbb4bd198e77239b4dc.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/648e731cecf339cddb8bb91413a7a98bec2c024bc3c7ccbb4bd198e77239b4dc.png,3,9,enUS
+131,Monster Hunter,"When fancy weapons and gadgets fail, there’s always tooth and claw.
+
+Acquired from completing the Monster Hunt with all four heroes and defeating Hagatha.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9756dac486847c46acd0a95ffa56b3c876a77307853ba37a8ce61f347bb3f17f.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9756dac486847c46acd0a95ffa56b3c876a77307853ba37a8ce61f347bb3f17f.png,3,6,enUS
+3,Rainbow!,"Unfortunately, the rainbow generator can only produce oval rainbows.  Gnomish technology still has a ways to go.
+
+Acquired from achieving Rank 20 in Ranked Play, June 2014.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c94dda75d6de2a0aeb02690431654cfda9921eab438a71a0dd1bee0913956ad.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c94dda75d6de2a0aeb02690431654cfda9921eab438a71a0dd1bee0913956ad.png,5,0,enUS
+368,E.T.C.,"The power of the Horde radiates through this card back!
+
+Obtained by purchasing in the shop.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e292ce98383d5ceaf2e92f2fd00aac736768b508e52d4cc7335862c5563bfc8d.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e292ce98383d5ceaf2e92f2fd00aac736768b508e52d4cc7335862c5563bfc8d.png,4,6,enUS
+200,Serpentine,"We have artfully arranged the remnants from Lady Vashj's last haircut for your viewing pleasure.
+
+Acquired by pre-purchasing Ashes of Outland, or when available in the shop.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dbb0882f6de3c065891fadb0cf30b773e4a2b9295f97af4c06ace8fcdc633c90.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dbb0882f6de3c065891fadb0cf30b773e4a2b9295f97af4c06ace8fcdc633c90.png,10,14,enUS
+165,Awesome Blossom,"Celebrate the fleeting beauty of spring with this eternally pretty card back.
+
+Acquired by winning 5 games in ranked mode, May 2019 or when available in the shop.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78a668106e8f6cbebb6fa4893efed4cf0ff0cf7cd2fabf99e490074fc2382079.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78a668106e8f6cbebb6fa4893efed4cf0ff0cf7cd2fabf99e490074fc2382079.png,5,0,enUS
+374,Inge,"The Iron Hymn is a catchy tune. It slaps, literally!
+
+Obtainable by purchasing in the shop.",4,True,,,4,6,enUS
+35,Highmaul,"5 out of 10 ogres agree: this card back is SMASHING!
+
+Acquired from achieving Rank 20 in Ranked Play, October 2015.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c49825d4ed1b1e7a0bd111f2c0e49e3ac5d70867180e5ae2f5a410605beccb3b.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c49825d4ed1b1e7a0bd111f2c0e49e3ac5d70867180e5ae2f5a410605beccb3b.png,5,0,enUS
+135,Raise the Roof,"The finer Gilnean homes feature ""Howling Verandas"" with unobstructed lunar views.
+
+Acquired from winning five games in Ranked Play, April 2018.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cc1f08f120474817d615032c1f1e00ba2f50a44825a9d6dc4f44d1a5f7779b2.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cc1f08f120474817d615032c1f1e00ba2f50a44825a9d6dc4f44d1a5f7779b2.png,5,0,enUS
+30,Darkspear,"Vol'jin's tribe, the Darkspear trolls, no longer practices cannibalism. Officially.
+
+Acquired from achieving Rank 20 in Ranked Play, July 2015.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fbd14b261068191a5465c667d6c2bcf147f98a97e834c1c998047892b753cb79.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fbd14b261068191a5465c667d6c2bcf147f98a97e834c1c998047892b753cb79.png,5,0,enUS
+201,Swamp Light,"Should you find yourself in the Underrot, you may feel a bit overwrought.
+
+Acquired by winning 5 games in ranked mode, May 2020.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fca4bad1a29d1e69d774a93f4019e8edcbafcf793f8c42e73e70b70cb6018969.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fca4bad1a29d1e69d774a93f4019e8edcbafcf793f8c42e73e70b70cb6018969.png,5,0,enUS
+369,Brook and Branch,"Perfect for those seeking organic growth.
+
+Acquired by winning 5 games in ranked mode, May 2023.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93d260661c2956de44d076bee2b57c2b357e45ff73305427eecd326cfbfddacb.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93d260661c2956de44d076bee2b57c2b357e45ff73305427eecd326cfbfddacb.png,5,0,enUS
+166,Stolen Thunder,"The hardest part of stealing thunder is getting away with it quietly.
+
+Acquired from participating in an authorized promotion or when available in the shop.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb06f0d6bcc75dd86cbc44c12a34f3800d197ce226843b66264f02e897f02e0f.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb06f0d6bcc75dd86cbc44c12a34f3800d197ce226843b66264f02e897f02e0f.png,10,12,enUS
+350,Lor'themar,"Lor'themar has one motto that he's always lived by: dignity, always dignity.
+
+Obtainable by purchasing in the shop.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74b4f37f5de1e0bde31887ff50b1c3c6d5bd620aeb809a6082ffadcf863b8d18.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74b4f37f5de1e0bde31887ff50b1c3c6d5bd620aeb809a6082ffadcf863b8d18.png,4,6,enUS
+136,Lunara's Garden,"Sometimes you just gotta frolic through the grass.
+
+Acquired from winning five games in Ranked Play, May 2018.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7cfee09a31a50c522ee2d1de9d398845ecc7efc19f138164607cce5c289e6afc.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7cfee09a31a50c522ee2d1de9d398845ecc7efc19f138164607cce5c289e6afc.png,5,0,enUS
+300,Frostwolf Fervor,"When Alliance battles firmly persist, you always prove that the Horde will resist!
+
+Earnable on the <i>Fractured in Alterac</i> reward track.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37fc5ed24075f10aea733e281a22a808abb36d6259b6320c318a9c8cee0c26b1.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37fc5ed24075f10aea733e281a22a808abb36d6259b6320c318a9c8cee0c26b1.png,3,6,enUS
+375,Harvest Wreath,"Which witches got crafty?
+
+Acquired by winning 5 games in ranked mode, September 2023.",1,True,,,5,0,enUS
+60,Tyrande,"Every Midsummer's Eve, night elf children gather in the Temple of the Moon for Tyrande's amazing planetarium show, ""By the Light of Elune.""
+
+Acquired from a special promotion.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d87c7a69b2a1f456ba7b9d05d6073e361d3d6870fc9689ae9884282fe0346a2b.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d87c7a69b2a1f456ba7b9d05d6073e361d3d6870fc9689ae9884282fe0346a2b.png,4,1,enUS
+37,Staff of Origination,"Wait, isn't this staff supposed to be in the museum?  RENO!!!
+
+Acquired from completing the League of Explorers in Heroic mode.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/088c7b0836b4561687633b7d443d45c41a230ecd37a9a265902e787785222882.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/088c7b0836b4561687633b7d443d45c41a230ecd37a9a265902e787785222882.png,3,3,enUS
+167,Suramar,"Something about this card is not quite right...
+
+Acquired by winning 5 games in ranked mode, June 2019.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c95dfd3ba2af42f6a800ffa769dd4c55b7166c19f94487f86e32bca761f5ae3f.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c95dfd3ba2af42f6a800ffa769dd4c55b7166c19f94487f86e32bca761f5ae3f.png,5,0,enUS
+351,The Lich King,"The very mention of this cardback's namesake will send a chill through your deck.
+
+Obtainable by participating in a special event.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c6bc9f9cf433c17d01b75f9bedff9f68572b0c1b83f2fc4e7a6baf1803229980.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c6bc9f9cf433c17d01b75f9bedff9f68572b0c1b83f2fc4e7a6baf1803229980.png,0,0,enUS
+301,Take the Cake,"But it's too beautiful to eat.
+
+Acquired by winning 5 games in ranked mode, January 2022.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5ef52a6353630bc14113f609787bdb000ebb542d974e93804af58eebaed0eb9.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5ef52a6353630bc14113f609787bdb000ebb542d974e93804af58eebaed0eb9.png,5,0,enUS
+61,Legion,"The Burning Legion attempted to invade Azeroth three times in the last 10,000 years. Fourth time's the charm?
+
+Acquired from achieving Rank 20 in Ranked Play, September 2016.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a3ff9128a413ee23f1b57bb326b5ae9509c8d0682566716870d4a13e133b175.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a3ff9128a413ee23f1b57bb326b5ae9509c8d0682566716870d4a13e133b175.png,5,0,enUS
+377,Titanic,"Phenomenal cosmic power... itty bitty card back.
+
+Earnable on the <i>TITANS</i> reward track.",6,True,,,3,6,enUS
+370,Ancient Ruin,"This one's built to last—or at least crumble very slowly.
+
+Acquired by winning 5 games in ranked mode, June 2023.",1,True,,,5,0,enUS
+168,Prize of Shadows,"It's official—your mischief is greater than any magic in the city of Dalaran!
+
+Acquired by successfully completing The Dalaran Heist.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/526329683164c8ff3220452648626379c324eebd285adba0961b4527374eea26.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/526329683164c8ff3220452648626379c324eebd285adba0961b4527374eea26.png,3,9,enUS
+202,Mystic Forest,"Hey, who set the Emerald Dream to dark mode?!
+
+Acquired by winning 5 games in ranked mode, June 2020.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb68da2b3b4afb7dcc552ef92b9c4623008c492bcf19b2ccb5ef95bc1ed9a963.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb68da2b3b4afb7dcc552ef92b9c4623008c492bcf19b2ccb5ef95bc1ed9a963.png,5,0,enUS
+352,CookinReno,"Turn up the heat in your games with this tasty card back!
+
+Obtained by purchasing in the shop.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e883479ec6ec9c0acab1f16d1e18c272da6976e8496656f84b4fa4ab4bb9305f.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e883479ec6ec9c0acab1f16d1e18c272da6976e8496656f84b4fa4ab4bb9305f.png,4,6,enUS
+302,Fortune's Favor,"May it bring you the luck of the draw!
+
+Acquired by winning 5 games in ranked mode, February 2022.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1d9bf23b2b43ab7271e4beb5450df5fb21ecf99abf0d0a32783b12ac781a184.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1d9bf23b2b43ab7271e4beb5450df5fb21ecf99abf0d0a32783b12ac781a184.png,5,0,enUS
+62,Pie,"Pilgrim's Bounty feasters await the arrival of delicious cherry pie. The bakers have only one request: Please eat a piece before the FOOD FIGHT begins!
+
+Acquired from achieving Rank 20 in Ranked Play, October 2016.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bea54f6e69f3b689da0b33f0368d16bdd2ccde89407c6bb414841e3aac28d928.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bea54f6e69f3b689da0b33f0368d16bdd2ccde89407c6bb414841e3aac28d928.png,5,0,enUS
+371,Kit,"Whether it's stitching or spellcasting, she makes her own magic.
+
+Obtainable by purchasing in the shop.",4,True,,,4,6,enUS
+169,Got Away with It!,"Seriously though, you shouldn't always do what E.V.I.L. villains tell you to.
+
+Acquired from completing The Dalaran Heist in Heroic mode.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7481d8896aa0bd6af2fffa7c794929739f8f524e25657ffb16b59b123ef10bb.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7481d8896aa0bd6af2fffa7c794929739f8f524e25657ffb16b59b123ef10bb.png,3,10,enUS
+203,Rusted Legion,"It crackles with fel energy and the mechanical whir of forbidden upgrades.
+
+Acquired by successfully completing Trial by Felfire in Story mode.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5929fbb8a87c02b2f21ecf6008246fc092d634d3f2cc2d81915ab79cbc6a9fcd.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5929fbb8a87c02b2f21ecf6008246fc092d634d3f2cc2d81915ab79cbc6a9fcd.png,3,15,enUS
+378,Year of the Hydra,"From underwater to the underworld, we'll remember every day and knight.
+
+Acquired by winning 5 games in ranked mode, July 2023.",1,True,,,5,0,enUS
+353,Fall Journey,"It's just right for your perfectly seasoned adventures!
+
+Acquired by winning 5 games in ranked mode, November 2022.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea914d2f07f8442d942e3061f453ee1b95190fce26d192fde1f99fa15cad4bde.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea914d2f07f8442d942e3061f453ee1b95190fce26d192fde1f99fa15cad4bde.png,5,0,enUS
+304,Greatfather Winter,"His greatest gift of all is this card back. Just look at it!
+
+Acquired by purchasing the Hero Greatfather Winter Magni.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c54f9f90949fb6a30089ece831b33c8fd93e8eb6880abaa2ea9a832b246138d.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c54f9f90949fb6a30089ece831b33c8fd93e8eb6880abaa2ea9a832b246138d.png,4,6,enUS
+64,Welcome Inn,"Pull up a chair by the fireside at BlizzCon's Hearthstone Tavern, then play a few hands with this year's convention-innspired card back.
+
+Acquired by participating in Blizzard events during 2016.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39b2bef41c6c481f23efa7faec0a5074a61b3ed58ffd278983601c058053fc78.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39b2bef41c6c481f23efa7faec0a5074a61b3ed58ffd278983601c058053fc78.png,11,3,enUS
+17,Lunar New Year,"Happy New Year!
+
+Acquired from achieving Rank 20 in Ranked Play, February 2015 or when available in the shop.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36bc7522c9059627e713efe2d8e53ade2daea8b4c71d43d677ee55d5a60be793.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36bc7522c9059627e713efe2d8e53ade2daea8b4c71d43d677ee55d5a60be793.png,5,0,enUS
+204,Rise Up!,"It is the yeast you could do.
+
+Acquired by winning 5 games in ranked mode, July 2020.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a070d34c4ce05b0187597a6eedce279fd11b4a874d3519c6e762d3903ac73089.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a070d34c4ce05b0187597a6eedce279fd11b4a874d3519c6e762d3903ac73089.png,5,0,enUS
+354,Jaraxxustein,"The perfect card back for your more experimental decks.
+
+Obtainable by purchasing in the shop.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c585a3f6f68fa26eaf8430025f0727b82313526f07140c2f10167519c67520c.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c585a3f6f68fa26eaf8430025f0727b82313526f07140c2f10167519c67520c.png,4,6,enUS
+379,Diablo Lilith,"To Hell and card back.
+
+Acquired from The Dark Wanderer Tavern Brawl, 2023.",5,True,,,13,0,enUS
+307,Diao Chan,"This one makes the best souvenir for a true fan.
+
+Acquired by purchasing the Hero Diao Chan Valeera.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dda2bb28a3d189323bad5abb0c8a83c3722c25d721fc877f6e18f84e13fcd119.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dda2bb28a3d189323bad5abb0c8a83c3722c25d721fc877f6e18f84e13fcd119.png,4,6,enUS
+65,Secret Level,"Moo.  That's right.  You heard me.
+
+Acquired from The Dark Wanderer Tavern Brawl, 2017.",5,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/028c3995b4b22c19a40786e86bd334e233e3e7a1131e41d2113aba4c28b6021b.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/028c3995b4b22c19a40786e86bd334e233e3e7a1131e41d2113aba4c28b6021b.png,13,0,enUS
+172,Shado-Pan,"Long ago, this card back took up its sacred duty to keep negative emotions from overrunning your board. Though mysterious, it is highly effective.
+
+Acquired by winning 5 games in ranked mode, July 2019.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58e6cb35c372d9f04377f55874e09e93701db4796145d899a80ae75ee56dffcb.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58e6cb35c372d9f04377f55874e09e93701db4796145d899a80ae75ee56dffcb.png,5,0,enUS
+205,Aranna,"If you want to take the demon by the horns, you'll have to get your own in the process.
+
+Obtained by purchasing the Aranna Starseeker bundle.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3987a1c39de9cd4268f4ca31c9d56bf7c8f908161230400b4d21ba3a6880ded.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3987a1c39de9cd4268f4ca31c9d56bf7c8f908161230400b4d21ba3a6880ded.png,4,6,enUS
+356,Present,"Your old card back’s the past, tomorrow’s is the future, but this one is a gift.
+
+Acquired by winning 5 games in ranked mode, December 2022.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b8753bf7590992a93c7598c133a4cd2f1998c9586d2a18b88c95a0831ad5bee.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b8753bf7590992a93c7598c133a4cd2f1998c9586d2a18b88c95a0831ad5bee.png,5,0,enUS
+308,Xuen,"A card back can't change its stripes. But why would it want to?
+
+Acquired by purchasing the Hero Xuen.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e18f71b72d7d04b3acc5f1caede1a54acb37b9a8163af92602aec60076954fac.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e18f71b72d7d04b3acc5f1caede1a54acb37b9a8163af92602aec60076954fac.png,4,6,enUS
+38,Blizzard 2015,"Hearthstone on phones, Tavern Brawls, Blackrock Mountain, The Grand Tournament and more! A very cool year, indeed.
+
+Acquired by participating in Blizzard events during 2015.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/735bae613d07e45cdcbde999fad33cd53806eb6d84a43818b84e0c537ff85a2f.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/735bae613d07e45cdcbde999fad33cd53806eb6d84a43818b84e0c537ff85a2f.png,11,2,enUS
+66,Jade Lotus,"The Jade Lotus is the newest of the three groups vying for Gadgetzan. They're hip with today's criminal youth.
+
+Acquired from achieving Rank 20 in Ranked Play, December 2016.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/394e3d542eeb8fe08966fe2a89dc208ec583af78a170e80ec144545496f4ed51.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/394e3d542eeb8fe08966fe2a89dc208ec583af78a170e80ec144545496f4ed51.png,5,0,enUS
+207,Scholomance,"Congratulations on your acceptance to the academy! We look forward to transforming you into the magical person you're meant to be.
+
+Acquired by winning 5 games in ranked mode, August 2020.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb1ea3003624f3013df7306aed7b30dafa4ace66b45ecd6b510b9b2b41155ba6.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb1ea3003624f3013df7306aed7b30dafa4ace66b45ecd6b510b9b2b41155ba6.png,5,0,enUS
+173,League of Explorers,"There once was a League of Explorers
+Who championed history and order.
+Without any delay,
+They could save every day
+And vanquish all greedy loot hoarders.
+
+Acquired from pre-purchasing Tombs of Terror.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e3e7d52d4da5e68cd801ca988e88e88c688e1f8bbe5cef23b3edb02d44f60f2.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e3e7d52d4da5e68cd801ca988e88e88c688e1f8bbe5cef23b3edb02d44f60f2.png,10,13,enUS
+357,Savory Soup,"You can still enjoy comfort food even if you’re already comfortable.
+
+Acquired by winning 5 games in ranked mode, January 2023.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9d7943707631eed6401806993478d80267f4421d2019627075baecdd4e13eca.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9d7943707631eed6401806993478d80267f4421d2019627075baecdd4e13eca.png,5,0,enUS
+309,Year of the Gryphon,"We braved the trials of the Barrens, survived the schemes of Stormwind, and ascended to the peaks of Alterac!
+
+Acquired by winning 5 games in ranked mode, March 2022.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/137600fd0025c19080ed9904dac2e9757a15b0923aa7bf677b665d6374728e78.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/137600fd0025c19080ed9904dac2e9757a15b0923aa7bf677b665d6374728e78.png,5,0,enUS
+381,V-07-TR-0N,"The spark of imagination is never lost, it merely finds a new vessel.
+
+Obtainable by purchasing in the shop.",6,True,,,4,6,enUS
+67,Grimy Goons,"The Grimy Goons once kicked a guy out for tucking a Ragnaros up his sleeve.
+
+Acquired from achieving Rank 20 in Ranked Play, January 2017.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a975e7c29f5e8d6e01649ba825930a9af0d7caf8e8e5640aa1834200df859911.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a975e7c29f5e8d6e01649ba825930a9af0d7caf8e8e5640aa1834200df859911.png,5,0,enUS
+208,Kel'Thuzad,"He is many different things to different people. To the Kirin Tor—a betrayer, to the Lich King—a faithful servant, and to dogs—a great chew toy.
+
+Acquired by pre-purchasing Scholomance Academy.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23a9de0312d0ad5ae95d0066093d54f9ac8899b2ec085b4ef0bd22d162a6a087.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23a9de0312d0ad5ae95d0066093d54f9ac8899b2ec085b4ef0bd22d162a6a087.png,4,6,enUS
+174,Elise’s Journal,"These pages detail her extraordinary adventures, artifact research, and pince-nez cleaning tips.
+
+Originally acquired from pre-purchasing the Saviors of Uldum bundle.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24f55193d447c330b315eb985719f92133b622b7fa2252092d20dea45ae4cda0.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24f55193d447c330b315eb985719f92133b622b7fa2252092d20dea45ae4cda0.png,10,13,enUS
+31,The Grand Tournament,"After the fall of the Lich King, it was suggested that we celebrate then go home.  Those of us who stayed decided to continue the Tournament with a new mission:  FUN!
+
+Was acquired from pre-purchase of The Grand Tournament Card Packs.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab7c78d97022e093890eb24679dd2b1f99c7e96be1760b58efdee0cd14bca2c5.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab7c78d97022e093890eb24679dd2b1f99c7e96be1760b58efdee0cd14bca2c5.png,10,2,enUS
+68,Kabal,"The Kabal are notorious for potions, treachery, and accidentally blowing themselves up with 10-mana spells.
+
+Acquired from achieving Rank 20 in Ranked Play, February 2017.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10c3d453a7492401aeaca1a039e664457a11f6669d9c9146773ab1640be1a94f.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10c3d453a7492401aeaca1a039e664457a11f6669d9c9146773ab1640be1a94f.png,5,0,enUS
+175,Sea of Dunes,"Vol'dun's a little dry and sandy, but it sure has good bones.
+
+Acquired by winning 5 games in ranked mode, September 2019.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0594bcd4bc9b346d50b0e823871c0c82a8d368331de56ba0e1200af11c88738a.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0594bcd4bc9b346d50b0e823871c0c82a8d368331de56ba0e1200af11c88738a.png,5,0,enUS
+39,Legacy of the Void,"Came with a note.  What on Azeroth does ""En Taro Adun"" mean?
+
+Acquired from Legacy of the Void Deluxe Edition.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/270b4f6685d91feb0588e418f9b84871abf31ab76b3bccd4f2f43b6733434cc2.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/270b4f6685d91feb0588e418f9b84871abf31ab76b3bccd4f2f43b6733434cc2.png,8,3,enUS
+312,Dancing Lion,"May this card back keep evil out of your decks in the New Year!
+
+Acquired from the shop during the 2022 Lunar New Year event.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3595a6046d7e502c8618016c2c41cad63a8f7ac74964215d3382f95dbff583ca.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3595a6046d7e502c8618016c2c41cad63a8f7ac74964215d3382f95dbff583ca.png,5,0,enUS
+69,Year of the Kraken,"RELEASE THE CARDBACK!
+
+Acquired from achieving Rank 20 in Ranked Play, March 2017.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b25d0eb373e9b73d85b69f066c6a6fcecc0e46fac4f5d2f9c6a98de29c4b5601.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b25d0eb373e9b73d85b69f066c6a6fcecc0e46fac4f5d2f9c6a98de29c4b5601.png,5,0,enUS
+176,Year of the Raven,"Was it really a raven? Or was Medivh meddling with everything in disguise all year long?!
+
+Acquired by winning 5 games in ranked mode, August 2019.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d89923a9efeb63d6cd226f44012ec0e6c874d8f29767d946223834efab16fa23.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d89923a9efeb63d6cd226f44012ec0e6c874d8f29767d946223834efab16fa23.png,5,0,enUS
+313,Shimmering Snowflake,Solve the mysteries hidden throughout Alterac Valley.,2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0acc68740a57a47df0b44ec73f767535020b6876b34ed1629c64dc6ec08780e3.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0acc68740a57a47df0b44ec73f767535020b6876b34ed1629c64dc6ec08780e3.png,3,9,enUS
+396,Sargeras,,4,True,,,4,6,enUS
+7,Heroic Naxxramas,"You can tell a lot about an Abomination by his stitching.  This one just screams ""insane"".  Literally.
+
+Acquired from completing the Curse of Naxxramas in Heroic mode.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79096f2be201b946ea95749be5360891867cd4c44335ee757e7becc4ebe2c60a.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79096f2be201b946ea95749be5360891867cd4c44335ee757e7becc4ebe2c60a.png,3,1,enUS
+314,Rain on the Pane,"They say the rain on the pane falls mainly down the drain. Harth must have planned ahead!
+
+Acquired by winning 5 games in ranked mode, April 2022.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3ef9d8a43d00587b67539fb4231c9a2fe1cb2adeccba1fbf2c1309a36e628d6.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3ef9d8a43d00587b67539fb4231c9a2fe1cb2adeccba1fbf2c1309a36e628d6.png,5,0,enUS
+231,Mysteries of the Phoenix,Solve the mysteries hidden throughout the Barrens.,2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83e06a5b25b56dba18509c5a1424208b78df3eae191692a24d90c24eb6b847f7.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83e06a5b25b56dba18509c5a1424208b78df3eae191692a24d90c24eb6b847f7.png,3,9,enUS
+4,Fireside,"A generous gift from the Innkeeper.  He loves to see his guests having a good time together.
+
+Play three matches against players at a Fireside Gathering.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8ee9e9e817fd107b010432c0aa8a8b3e1aa5a074acc3b691abb8d0b2fd7cb8f.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8ee9e9e817fd107b010432c0aa8a8b3e1aa5a074acc3b691abb8d0b2fd7cb8f.png,2,1,enUS
+70,Fossil,"Recent discoveries from the tar pits of Un'Goro have shed great insight on the evolution of card backs!
+
+Was acquired from pre-purchase of Journey to Un'Goro Card Packs.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff03f711e22820979fa0bfdbec3566544e43574566b0f157228653367f2cdba1.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff03f711e22820979fa0bfdbec3566544e43574566b0f157228653367f2cdba1.png,10,5,enUS
+316,Sir Finley Mrrgglton,"This card back is best paired with a deck full of murlocs.
+
+Acquired by purchasing the Sir Finley Mrrgglton bundle.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/039a705ddba46a3680788360854ef8c7362c957729a4a2e6fadc41c8630132be.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/039a705ddba46a3680788360854ef8c7362c957729a4a2e6fadc41c8630132be.png,4,0,enUS
+71,Sunwell,"Arthas' corruption of the Sunwell really put a damper on the tourism industry of Quel'Thalas.
+
+Acquired from achieving Rank 20 in Ranked Play, May 2017.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5f2e35e656cbcc5439f173f093b6a9254db29d958673e963e769cf7ab189e66.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5f2e35e656cbcc5439f173f093b6a9254db29d958673e963e769cf7ab189e66.png,5,0,enUS
+232,Golden Skies,"In light of a glorious victory, the rainy days are far away.
+
+Acquired from approved eSports events.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e2f40a63fcca7b2d51c2e8c557dd7d7f7a4c834f34112b8f919aea86bad19e3.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e2f40a63fcca7b2d51c2e8c557dd7d7f7a4c834f34112b8f919aea86bad19e3.png,12,1,enUS
+40,Love Is in the Air,"Many believe goblins made up this holiday to sell candy.  It's not true!  They also sell flowers and perfume!
+
+Acquired from achieving Rank 20 in Ranked Play, January 2016 or when available in the shop.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ddcfe2d7de6bcedbdf0832bce165e1b10ab5dea0f01e90373c6830dee470a588.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ddcfe2d7de6bcedbdf0832bce165e1b10ab5dea0f01e90373c6830dee470a588.png,5,0,enUS
+8,Icecrown,"In the frozen heart of Icecrown Citadel, a hero's mettle will be tested.  Bring a parka.
+
+Acquired from achieving Rank 20 in Ranked Play, August 2014.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/abfbf8e59a978da02a9016659778a845778101e698cb144a1206d9816a75fe2e.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/abfbf8e59a978da02a9016659778a845778101e698cb144a1206d9816a75fe2e.png,5,0,enUS
+235,Varian,"This card back is fit for a king, but we'll make an exception for you!
+
+Acquired by winning 5 games in ranked mode, August 2021.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da6322d173ad9abb076a00be2c4a99eac5bde3736135d51f53243dff664e0bd7.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da6322d173ad9abb076a00be2c4a99eac5bde3736135d51f53243dff664e0bd7.png,5,0,enUS
+41,Thunder Bluff,"Unofficial slogan:  ""Great warriors come from happy Tauren tribes.  Happy Tauren come from Thunder Bluff!""
+
+Acquired from achieving Rank 20 in Ranked Play, February 2016 or when available in the shop.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b6519cd62a9888a01643741f9338ad5f3a6ed5d69fb9c0ba395723c3cac49e3b.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b6519cd62a9888a01643741f9338ad5f3a6ed5d69fb9c0ba395723c3cac49e3b.png,5,0,enUS
+9,Pirates!,"Treasure.  Grog.  Hooks for hands.  Way better than Ninjas!
+
+Acquired from achieving Rank 20 in Ranked Play, September 2014.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e697080efbb93d7d88fa87f2337b37b98eba7c04b5e33d5077aec0a7f8050d4.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e697080efbb93d7d88fa87f2337b37b98eba7c04b5e33d5077aec0a7f8050d4.png,5,0,enUS
+236,Shamrock n' Roll,"Luckily, you only need one four leaf clover to turn your fortune around.
+
+Acquired by winning 5 games in ranked mode, June 2021.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8fc16813ef54530122af4342b86ed56b87e3a0a9eec4f6ef48fc8aec951c72a.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8fc16813ef54530122af4342b86ed56b87e3a0a9eec4f6ef48fc8aec951c72a.png,5,0,enUS
+42,Thrall,"The World Shaman is probably THE best known celebrity in Azeroth.  It's a mystery that his signature necklace never caught on as a fashion trend.
+
+Acquired from achieving Rank 20 in Ranked Play, December 2015 or when available in the shop.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7991b8a8a8883085772e00de6418ca1f1b4db497db49c5939351252c4607c46c.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7991b8a8a8883085772e00de6418ca1f1b4db497db49c5939351252c4607c46c.png,5,0,enUS
+93,Un'goro Mystery,"These long-lost card backs require a machete to shuffle.
+
+Acquired from achieving Rank 20 in Ranked Play, April 2017.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea7a4cb0afefffd1dbf87bd3ca1de35466584277ec7c2afe08fd2005b57ee55a.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea7a4cb0afefffd1dbf87bd3ca1de35466584277ec7c2afe08fd2005b57ee55a.png,5,0,enUS
+237,Yrel,"Her destiny in the Light is so bright, everyone's gotta wear shades.
+
+Earnable after purchasing the <i>United in Stormwind</i> Tavern Pass, or when available in the shop.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/423fd37e06d4377049f893e16255a69c115532f963f25ae21315f7817a61ca62.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/423fd37e06d4377049f893e16255a69c115532f963f25ae21315f7817a61ca62.png,3,6,enUS
+137,Back in Blue,"The blue dragonflight jealously guards the secrets of magic, such as: Where do all those colored hankies come from?
+
+Acquired from winning five games in Ranked Play, June 2018.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e5a74705c64513947cd09a7d4e5025b3add6605ede0130b5598176830c3d4d6.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e5a74705c64513947cd09a7d4e5025b3add6605ede0130b5598176830c3d4d6.png,5,0,enUS
+209,Faerie Tail,"Once upon a time, heroes gathered to witness the creation of something special!
+
+Created live on stream, May 2020.
+
+Acquired by winning 5 games in ranked mode, September 2020.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d0826c10aaf8f5f47471e75e0a8de8b5d87b06d459fb515251cb7c8660f769a.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d0826c10aaf8f5f47471e75e0a8de8b5d87b06d459fb515251cb7c8660f769a.png,5,0,enUS
+43,Winter Veil Wreath,"A beautiful Winter Veil wreath around a snow globe full of THE FROSTY DESTRUCTION OF YOUR OPPONENTS!  I mean...  good cheer.
+
+Acquired from Winter Veil 2015-2017 or when available in the shop.",5,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78d4c843401d69e27e6a453ee89bc86d64233c7713846d82fe3371146171ef85.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78d4c843401d69e27e6a453ee89bc86d64233c7713846d82fe3371146171ef85.png,13,0,enUS
+94,Thrill of Victory,"Celebrate the intensity of competition with this, the Hearthstone equivalent of a gigantic foam finger.
+
+Acquired from attending approved eSports events.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f1106dd853dee2a147d7e7257b88804190cf7d7c4c8292de293837f266cb1dd.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f1106dd853dee2a147d7e7257b88804190cf7d7c4c8292de293837f266cb1dd.png,7,3,enUS
+138,Lightforged,"Behold, a grand Army of the Light! Dealing out justice 30 cards at a time.
+
+Acquired from winning five games in Ranked Play, July 2018 or when available in the shop.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a3ed10b6392b15b55567c9519150422e6315d64eb1d003b76f92c2141b6c19e.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a3ed10b6392b15b55567c9519150422e6315d64eb1d003b76f92c2141b6c19e.png,5,0,enUS
+238,Utgarde Keep,"What does it keep, exactly? Lots of vrykul, val'kyr, and disgruntled proto-dragons.
+
+Acquired by winning 5 games in ranked mode, July 2021.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d69bfe808ee8a0e1225ce46d5db88e80f571720741b8f4aa019c9f2d385a557.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d69bfe808ee8a0e1225ce46d5db88e80f571720741b8f4aa019c9f2d385a557.png,5,0,enUS
+95,The Magic of Dalaran,"Deep within the Halls of the Guardian, the most powerful mages of Azeroth forged a magical card back and uttered this arcane incantation: ""Pick a card, any card...""
+
+Acquired from achieving Rank 20 in Ranked Play, June 2017 or when available in the s",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50107d31709c4dff08b5156926797ae6bbc02490734a4c5bf84f486b5d7579ac.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50107d31709c4dff08b5156926797ae6bbc02490734a4c5bf84f486b5d7579ac.png,5,0,enUS
+239,Stormwind,"The weirdest thing about this place is that the weather's usually great.
+
+Earnable on the <i>United in Stormwind</i> Reward Track.",6,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/480bc9aec12cfdc65d1ec1c49a35f63839d505bf3f2fcc846ddebd5e12e3ed63.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/480bc9aec12cfdc65d1ec1c49a35f63839d505bf3f2fcc846ddebd5e12e3ed63.png,3,6,enUS
+24,Heroes of the Storm,"This arrived for you from the Nexus.  Might want to watch out for those whirling blade thingies.
+
+Acquired from reaching Player Level 15 in the Blizzard game Heroes of the Storm.",2,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e321c0db9eeaf6d30e2de9a7b7b695dda9028a485ebee1264582d38b6c0d527.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e321c0db9eeaf6d30e2de9a7b7b695dda9028a485ebee1264582d38b6c0d527.png,8,1,enUS
+242,Ramen,"This soup's good enough to be soulbound.
+
+Acquired by winning 5 games in ranked mode, September 2021.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d014931fe5fede9a7417e125dbb1ad0e77043c238adceed48e9de3dd6688f5e6.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d014931fe5fede9a7417e125dbb1ad0e77043c238adceed48e9de3dd6688f5e6.png,5,0,enUS
+249,Herbalist,"Everyone can get behind this daily grind.
+
+Acquired by winning 5 games in ranked mode, October 2021.",1,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59e71501ef60c665c60a7a5bec34accc0bf612766b35285794b8c1009dc5d65a.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59e71501ef60c665c60a7a5bec34accc0bf612766b35285794b8c1009dc5d65a.png,5,0,enUS
+25,Alleria,"When she wants to shoot an apple on your head, you don't have to worry.  Unless you're an orc.
+
+Acquired from purchasing the Hero Alleria Windrunner.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee69392f06502023f05f74bcdcf5d1a6648f9d6602503ce36ca011c47c61f40b.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee69392f06502023f05f74bcdcf5d1a6648f9d6602503ce36ca011c47c61f40b.png,4,3,enUS
+250,Katrana,"The Stormwind nobles suspected Lady Katrana would spread her wings and go places one day. Little did they know…
+
+Acquired by pre-purchasing United in Stormwind.",4,True,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5fc9c1ab8bb1c09bafab84ac871bb2fb9f5ccac973b06a7427fd25a7a01f17d9.png,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5fc9c1ab8bb1c09bafab84ac871bb2fb9f5ccac973b06a7427fd25a7a01f17d9.png,4,6,enUS
